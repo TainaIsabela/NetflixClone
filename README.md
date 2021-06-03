@@ -22,13 +22,13 @@ data from https://api.themoviedb.org/3
 
 ### 📎Features 
 
-✅ Featured Movie
+- [x] Featured Movie
 
-✅ Original Netflix Movies
+- [x] Original Netflix Movies
 
-✅ Movies divided into categories: romance, action, etc.
+- [x] Movies divided into categories: romance, action, etc.
 
-✅ List scroll arrows
+- [x] List scroll arrows
 
 
 ### ✅ Demonstration
