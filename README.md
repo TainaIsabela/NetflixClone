@@ -24,9 +24,7 @@ data from https://api.themoviedb.org/3
 - [x] Original Netflix Movies
 - [x] Movies divided into categories: romance, action, etc.
 - [x] List scroll arrows
-### 💻 Project
 
-UI Clone of the streaming service - Netflix, using the fundamental API by The Movie Database. This project was developed during the live given by Professor Boenick Lacerda.
 
 ### ✅ Demonstration
 ![Screenshot_1](/imgs/Screenshot_1.jpg "Screenshot_1")![Screenshot_2](/imgs/Screenshot_2.jpg "Screenshot_2")
