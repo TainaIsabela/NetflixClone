@@ -20,10 +20,10 @@ data from https://api.themoviedb.org/3
   <img src="https://img.shields.io/badge/license-MIT-success"/>
 </p>
 ### 📎 Features 
-- [x] Featured Movie
-- [x] Original Netflix Movies
-- [x] Movies divided into categories: romance, action, etc.
-- [x] List scroll arrows
+✅ Featured Movie
+✅ Original Netflix Movies
+✅ Movies divided into categories: romance, action, etc.
+✅ List scroll arrows
 
 
 ### ✅ Demonstration
