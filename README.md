@@ -21,8 +21,11 @@ data from https://api.themoviedb.org/3
 </p>
 ### 📎 Features 
 ✅ Featured Movie
+
 ✅ Original Netflix Movies
+
 ✅ Movies divided into categories: romance, action, etc.
+
 ✅ List scroll arrows
 
 
