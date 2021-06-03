@@ -19,7 +19,8 @@ data from https://api.themoviedb.org/3
   <img src="https://img.shields.io/badge/last%20commit-february-blue" />
   <img src="https://img.shields.io/badge/license-MIT-success"/>
 </p>
-### 📎 Features 
+
+### 📎Features 
 
 ✅ Featured Movie
 
