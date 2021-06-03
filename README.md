@@ -20,6 +20,7 @@ data from https://api.themoviedb.org/3
   <img src="https://img.shields.io/badge/license-MIT-success"/>
 </p>
 ### 📎 Features 
+
 ✅ Featured Movie
 
 ✅ Original Netflix Movies
