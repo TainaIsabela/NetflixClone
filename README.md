@@ -38,7 +38,7 @@ data from https://api.themoviedb.org/3
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/gustavo-nt/netflix-clone
+$ git clone https://github.com/TainaIsabela/NetflixClone
 
 # install dependencies
 $ yarn ou npm
